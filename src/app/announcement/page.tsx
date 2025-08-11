@@ -76,7 +76,7 @@ export default async function AnnouncementPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#121212] text-white font-[Lato]">
+    <div className="min-h-screen bg-[#121212] text-white font-lato">
       <Navigation />
       
       {/* Header Section */}
